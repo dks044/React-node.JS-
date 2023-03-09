@@ -35,6 +35,7 @@ https://blog.naver.com/buzz7811/223033660710
 GET 방식, POST 방식으로 React 서버에서 Node 서버의 JSON 데이터를 가져오기
 https://blog.naver.com/buzz7811/223035636322
 
+<hr>
 
 **'Chapter 2'**
 
