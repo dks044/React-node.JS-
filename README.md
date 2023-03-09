@@ -44,6 +44,7 @@ https://blog.naver.com/buzz7811/223035636322
 [2-1]
 Bootstrap 템플릿파일(HTML, CSS, IMG)로 React서버 HOME 페이지를 세팅
 https://blog.naver.com/buzz7811/223039454098
+
 [2-2]
 레이아웃 HEADER, FOOTER 처리
 https://blog.naver.com/buzz7811/223039728811
