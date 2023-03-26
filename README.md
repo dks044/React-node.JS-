@@ -59,8 +59,8 @@ https://blog.naver.com/buzz7811/223039728811
 React 페이지 라우팅 적용하기 (함수형&클래스형 컴포넌트, props 변수)
 
 https://blog.naver.com/buzz7811/223041715516
+<hr>
+**'Chapter 3'**
 
-**'Chapter 2'**
-
-**BootStrap 템플릿을 React 서버에 적용해보자**
+**카카오 MAP API를 이용해, 바이러스 확진자 지도 만들기**
 
