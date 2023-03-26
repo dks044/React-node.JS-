@@ -60,4 +60,7 @@ React 페이지 라우팅 적용하기 (함수형&클래스형 컴포넌트, pro
 
 https://blog.naver.com/buzz7811/223041715516
 
+**'Chapter 2'**
+
+**BootStrap 템플릿을 React 서버에 적용해보자**
 
