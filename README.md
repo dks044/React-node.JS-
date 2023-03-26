@@ -1,3 +1,4 @@
+
 # **React / node.js 스터디**
 
 ## 🧐 배경
@@ -45,6 +46,7 @@ https://blog.naver.com/buzz7811/223035636322
 
 **BootStrap 템플릿을 React 서버에 적용해보자**
 
+
 [2-1]
 Bootstrap 템플릿파일(HTML, CSS, IMG)로 React서버 HOME 페이지를 세팅
 
@@ -59,8 +61,13 @@ https://blog.naver.com/buzz7811/223039728811
 React 페이지 라우팅 적용하기 (함수형&클래스형 컴포넌트, props 변수)
 
 https://blog.naver.com/buzz7811/223041715516
-<hr>
+
 **'Chapter 3'**
 
 **카카오 MAP API를 이용해, 바이러스 확진자 지도 만들기**
+
+[3-1]
+카카오 MAP API 키 발급 및 사이트 도메인 등록 (카카오Map api 사용법 등)
+
+https://blog.naver.com/buzz7811/223056220936
 
