@@ -72,7 +72,8 @@ https://blog.naver.com/buzz7811/223041715516
 카카오 MAP API 키 발급 및 사이트 도메인 등록 (카카오Map api 사용법 등)
 
 https://blog.naver.com/buzz7811/223056220936   
-[3-2]   
-확진자 데이터를 JSON 형태로 변환하기  (공공API, 확진자데이터 특징, JSON, Excel -> JSON)   
-https://blog.naver.com/buzz7811/223057058057
+[3-2] 확진자 데이터를 JSON 형태로 변환하기  (공공API, 확진자데이터 특징, JSON, Excel -> JSON)   
+https://blog.naver.com/buzz7811/223057058057   
+[3-3] React 페이지에 카카오 MAP 나타내기 (카카오 MAP API, Jquery이란?)   
+https://blog.naver.com/buzz7811/223058465580
 
